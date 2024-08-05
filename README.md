@@ -1,5 +1,5 @@
-<div <img src="https://www.google.com/imgres?q=animated%20bg&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F05%2F48%2F87%2F08%2F360_F_548870803_womfmsxtthXmhwlQhdbooje6LNVa10by.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522animation%2Bbackground%2522&docid=eDCz0bHG8h6JOM&tbnid=EwlLo3-fU0V1cM&vet=12ahUKEwiJ0_rFu96HAxWAcfUHHbDUOIgQM3oFCIUBEAA..i&w=540&h=360&hcb=2&ved=2ahUKEwiJ0_rFu96HAxWAcfUHHbDUOIgQM3oFCIUBEAA" alt="Animated Background">
-><h1 align="center">Hi 👋, I'm Abhishek   </h1>
+<div > <img src="https://www.google.com/imgres?q=animated%20bg&imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F05%2F48%2F87%2F08%2F360_F_548870803_womfmsxtthXmhwlQhdbooje6LNVa10by.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522animation%2Bbackground%2522&docid=eDCz0bHG8h6JOM&tbnid=EwlLo3-fU0V1cM&vet=12ahUKEwiJ0_rFu96HAxWAcfUHHbDUOIgQM3oFCIUBEAA..i&w=540&h=360&hcb=2&ved=2ahUKEwiJ0_rFu96HAxWAcfUHHbDUOIgQM3oFCIUBEAA" alt="Animated Background">
+<h1 align="center">Hi 👋, I'm Abhishek   </h1>
   <h3 align="center">Student and Tech enthusiast who is trying to explore digital possibilities.    <p align="left"> <img src="https://komarev.com/ghpvc/?username=10-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="10-abhi" /> </p></h3>
 
 
