@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek    <p align="left"> <img src="https://komarev.com/ghpvc/?username=10-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="10-abhi" /> </p> </h1>
-  <h3 align="center">Student and Tech enthusiast who is trying to explore digital possibilities.</h3>
+<h1 align="center">Hi 👋, I'm Abhishek   </h1>
+  <h3 align="center">Student and Tech enthusiast who is trying to explore digital possibilities.    <p align="left"> <img src="https://komarev.com/ghpvc/?username=10-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="10-abhi" /> </p></h3>
 
 
 
