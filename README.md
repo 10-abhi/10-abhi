@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Student and Tech enthusiast who is trying to explore digital possibilities.</h3>
+<h1 align="center">Hey There , I'm Abhishek </h1>
+<h2 align="center">Student and Tech enthusiast who is trying to explore digital possibilities.</h3>
 
- ### Profile Visitors
-<p align="start">
-  <img src="https://profile-counter.glitch.me/{10-abhi}/count.svg" alt="Visitor Count" width="180" height="24" />
-</p>
+### 🚀 A Little Curious?  
+- 🌱 Currently sharpening my skills in **DSA** & **System Design**    
+- 🎯 Passionate about **building, shipping, and improving cool products**
+- 🌍 Check out my work: [**My Portfolio**](https://abhiiii.vercel.app/) 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek__mishra1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/10-abhi) 
 
 # 💻 Tech Stack:
